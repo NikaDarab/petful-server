@@ -8,7 +8,7 @@ const app = express();
 const peopleRouter = require("../people/people.router");
 const catsRouter = require("../cats/cats.router");
 const dogsRouter = require("../dogs/dogs.router");
-
+//test
 const morganSetting = process.env.NODE_ENV === "production" ? "tiny" : "common";
 app.use(morgan(morganSetting));
 app.use(cors());
