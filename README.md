@@ -4,6 +4,8 @@ Live app: https://petful-client-59tmi6t3v-nikadarab.vercel.app/
 
 Client repo: https://github.com/NikaDarab/petful-client
 
+API repo: https://github.com/NikaDarab/petful-server
+
 ## Summary
 
 FIFO is a a pet adoption website.
