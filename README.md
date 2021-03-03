@@ -2,7 +2,7 @@
 
 Live app: https://petful-client-59tmi6t3v-nikadarab.vercel.app/
 
-client repo: https://github.com/NikaDarab/petful-client
+Client repo: https://github.com/NikaDarab/petful-client
 
 ## Summary
 
