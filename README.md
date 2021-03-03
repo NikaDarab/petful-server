@@ -1,6 +1,6 @@
 # FIFO Petful Server
 
-Live app: https://petful-client-kwk1h9i0n-nikadarab.vercel.app/
+Live app: https://petful-client-black.vercel.app/
 
 Client repo: https://github.com/NikaDarab/petful-client
 
