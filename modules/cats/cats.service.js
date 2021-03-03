@@ -22,7 +22,10 @@ module.exports = {
 
   dequeue(type) {
     // Remove a pet from the queue.
-    pets.cats.dequeue();
-    return pets.cats;
+    let cats = pets.cats.dequeue();
+    if (!pets.cats.first) {
+      store.cats.forEach((cat) => pets.cats.enqueue(cat));
+    }
+    return cats;
   },
 };
